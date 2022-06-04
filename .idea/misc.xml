@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/drawable/boton_fondo.xml" value="0.1575" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/drawable/boton_on.xml" value="0.1575" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/drawable/esquinas_redondeadas.xml" value="0.1575" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/drawable/fondo_principal.xml" value="0.1575" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/drawable/ic_cerrar_sesion.xml" value="0.1575" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/layout/activity_detalle_menu.xml" value="0.2" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/layout/activity_nuevo_menu.xml" value="0.2" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/layout/activity_opciones.xml" value="0.25" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/layout/fila_menu.xml" value="0.2" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/layout/fila_personalizada.xml" value="0.25" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/menu/aacion_guardar_menu.xml" value="0.2" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/menu/acciones_menu.xml" value="0.22" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/VeterinariaZ/app/src/main/res/menu/menu_superior.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

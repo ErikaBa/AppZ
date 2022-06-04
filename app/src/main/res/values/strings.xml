@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VeterinariaZ</string>
+    <string name="txtRegistro">Registro</string>
+    <string name="txtLogin">Inicio de sesión</string>
+    <string name="btnLogin">Acceder</string>
+    <string name="txtRecuerdame">Recuérdame</string>
+    <string name="btnMenu">Menú</string>
+    <string name="btnCitas">Citas</string>
+    <string name="opCerrarSesion">Cerrar Sesión</string>
+</resources>
